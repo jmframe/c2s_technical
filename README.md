@@ -4,4 +4,4 @@ My writeup for the technical assessment is here: `JonathanFrame_C2S_technical_ch
 
 Well actually the return period analysis was done using this public Matlab code: https://www.mathworks.com/matlabcentral/fileexchange/22628-log-pearson-flood-flow-frequency-using-usgs-17b
 
-Once those return periods were calculated, here is my code for analysis of return periods: `return_period_2019_tulsa_flood_event.ipynb`
+Once those return periods were calculated, here is my code for analysis of return periods: `analysis_code_c2s_tulsa_2019.ipynb`
